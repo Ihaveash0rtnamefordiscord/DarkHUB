@@ -1,12 +1,12 @@
-if game.CoreGui:FindFirstChild("ScrapterStopOwO") then
-    game.CoreGui.ScrapterStopOwO:Destroy()
+if game.CoreGui:FindFirstChild("ScrapterStopUwU") then
+    game.CoreGui.ScrapterStopUwU:Destroy()
 end
 game:GetService("UserInputService").InputBegan:connect(
     function(key, gpe)
         if key.KeyCode == Enum.KeyCode.RightControl then
             pcall(
                 function()
-                    for i, v in pairs(game.CoreGui.ScrapterStopOwO:GetChildren()) do
+                    for i, v in pairs(game.CoreGui.ScrapterStopUwU:GetChildren()) do
                         v.Visible = not v.Visible
                     end
                 end
@@ -137,7 +137,7 @@ function Ripple(obj)
 end
 
 local DarkHubLib = Instance.new("ScreenGui")
-DarkHubLib.Name = "ScrapterStopOwO"
+DarkHubLib.Name = "ScrapterStopUwU"
 DarkHubLib.Parent = game.CoreGui
 DarkHubLib.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
