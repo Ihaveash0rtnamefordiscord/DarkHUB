@@ -1,1 +1,439 @@
-local e=getfenv();local i=e["\116\111\110\117\109\98\101\114"];local r=("")["\115\117\98"];local u=("")["\98\121\116\101"];local n=("")["\99\104\97\114"];local s=e["\116\97\98\108\101"]["\99\111\110\99\97\116"];local d=((e["\108\111\97\100\115\116\114\105\110\103"])or(e["\108\111\97\100"]));local a=((256));local x,c=({}),({});for e=(0),a-((#{654;717;705;(function(...)return 581,951;end)()}-4))do local n=n(e);x[e]=n;c[e]=n;c[n]=e;end;local e=((e["\98\105\116\51\50"])or(e["\98\105\116"])or({}));local o=(((e)and(e["\98\120\111\114"]))or(function(e,n)local o,t=((#{164;(function(...)return 546,454,...;end)(251,687)}-4)),(0);while((e>(0))and(n>((#{246;653;97;(function(...)return 294,...;end)(251,14,166)}-7))))do local x,r=e%(2),n%(2);if x~=r then t=t+o;end;e,n,o=(e-x)/((#{389;648;897;293;}-2)),(n-r)/(2),o*(2);end;if e<n then e=n;end;while e>((71-#("why the fuck would we sell a deobfuscator for a product we created.....")))do local n=e%((#{}+2));if n>(0)then t=t+o;end;e,o=(e-n)/((23-#("psu == femboy hangout"))),o*(2);end;return(t);end));local t=(o((#{341;(function(...)return((#{678;362;181;28;}+387)),((#{264;(function(...)return 214,1,330,937,...;end)(95,152)}+67)),(125),(132);end)()}-5),(#{548;((#{648;223;(function(...)return 889,69,593,...;end)(273,742)}+14));((#{62;622;841;940;}+486));((72-#("still waiting for luci to fix the API :|")));(function(...)return((#{800;}+71));end)()}-5)));local x,n=(function(l)local n,o,t=(""),(""),({});local e=((#{441;867;457;}-2));local function u()local n=i(r(l,e,e),((66-#("please suck my cock :pleading:"))));e=e+(1);local o=i(r(l,e,e+n-((31-#("please suck my cock :pleading:")))),(36));e=e+n;return(o);end;n=c[u()];t[(1)]=n;while(e<#l)do local e=u();if x[e]then o=x[e];else o=n..r(n,(1),((#{747;526;}-1)));end;x[a]=n..r(o,((#{638;522;}-1)),(1));t[#t+((31-#("please suck my cock :pleading:")))],n,a=o,o,a+((#{78;194;(function(...)return 897,...;end)(585,623)}-4));end;return(s(t));end)('22H1027526D26u23D21n2731727527313275121222n210275101127527N27n27526y22V24i21J1227l24422026s21C1f27L21823E25n21B22x25624G21224l27l1m27L27m27D27l21G27L1l27l23S1j27521427l24523g2391N1527L2611d1h141428I23526e1I'),((#{695;(691);((807-#("Luraph: Probably considered the worst out of the three, Luraph is another Lua Obfuscator. It isnt remotely as secure as Ironbrew or Synapse Xen, and it isn't as fast as Ironbrew either.")));(function(...)return;end)()}-(2)));local function e()local r,a,x,e=u(x,n,n+(3));r=o(r,t);a=o(a,t);x=o(x,t);e=o(e,t);n=n+(4);return((e*((16777338-#("oh Mr. Pools, thats a little close please dont touch me there... please Mr. Pools I am only eight years old please stop..."))))+(x*(65536))+(a*((271-#("concat was here"))))+r);end;local function a()local e=o(u(x,n,n),t);n=(n+(1));return(e);end;local function a()local r,e=u(x,n,n+(2));r=o(r,t);e=o(e,t);n=n+((81-#("Are you using AztupBrew, clvbrew, or IB2? Congratulations! You're deobfuscated!")));return((e*((323-#("@everyone designs are done. luraph website coming.... eta JULY 2020"))))+r);end;local function o(o,e,n)if(n)then local e=(o/(2)^(e-((186-#("Luraph: Probably considered the worst out of the three, Luraph is another Lua Obfuscator. It isnt remotely as secure as Ironbrew or Synapse Xen, and it isn't as fast as Ironbrew either.")))))%(2)^((n-(1))-(e-(1))+((53-#("why does psu.dev attract so many ddosing retards wtf"))));return(e-(e%((96-#("uh oh everyone watch out pain exist coming in with the backspace method one dot two dot man dot")))));else local e=((42-#("still waiting for luci to fix the API :|")))^(e-(1));return(((o%(e+e)>=e)and((1)))or((0)));end;end;local e=({[(686350041)]=(e());['ebxiqZ']=("\101");[(746766559)]=(((#{887;939;39;(function(...)return 845,499;end)()}+243)));nB8ghFUmV=("\98");['OWX6lim']=((479570085));[((529196373-#("why does psu.dev attract so many ddosing retards wtf")))]=(((294628-#("i am not wally stop asking me for wally hub support please fuck off"))));opaDpY=((29));['z295Oy']=(e());[((#{298;248;72;}+479570082))]=("\111");["Syszl"]=(((153-#("oh Mr. Pools, thats a little close please dont touch me there... please Mr. Pools I am only eight years old please stop..."))));[(933390330)]=("\105");['xZlVwEvGC']=(e());[((777688951-#("you dumped constants by printing the deserializer??? ladies and gentlemen stand clear we have a genius in the building.")))]=((125863968));[((#{}+156287671))]=((20));Ryj1puIE8=(e());['pnDqbOv']=(e());[((#{962;408;360;(function(...)return;end)()}+420079759))]=("\117");[((#{63;878;(function(...)return 454,243,885,365;end)()}+795723259))]=(e());[((#{524;270;587;889;}+785954383))]=(((#{407;284;889;}+597622972)));[((#{}+392603896))]=(((#{128;982;262;483;(function(...)return...;end)(59,488)}+420079756)));[((#{}+929622284))]=("\112");["iyrDXxPaud"]=(e());[((#{305;824;}+801864234))]=("\50");[(356565990)]=("\121");[(33747008)]=(e());[(68226521)]=("\99");nHmocl5R=(e());[(567475850)]=(e());[((#{166;415;(function(...)return 32,...;end)(443,480,82,379)}+133943919))]=((32));[((#{676;(function(...)return 565;end)()}+200828138))]=("\120");[((821933452-#("concat was here")))]=(e());["aE2vjdZC"]=((6));[(511654469)]=(((#{965;}+617952)));[(610206210)]=("\110");[((#{207;556;746;(function(...)return 119,...;end)(56,859)}+597622969))]=("\100");[((155657452-#("woooow u hooked an opcode, congratulations~ now suck my cock")))]=(e());[((#{}+125863968))]=("\104");[(393575573)]=("\108");[(10906032)]=((468601478));[((565179286-#("Luraph: Probably considered the worst out of the three, Luraph is another Lua Obfuscator. It isnt remotely as secure as Ironbrew or Synapse Xen, and it isn't as fast as Ironbrew either.")))]=(e());[((397368262-#("luraph is now down until further notice for an emergency major security update")))]=(e());Y4bVL=(e());[(997848805)]=("\97");["YW8GwcyV"]=(((#{0;645;(function(...)return 916;end)()}+118)));[((#{471;180;505;(function(...)return 765,723;end)()}+229865766))]=((200828140));[(839271621)]=(e());YGdO1jwx9z=(e());['reNTjNIm']=((3));[((531550967-#("guys someone play Among Us with memcorrupt he is so lonely :(")))]=(e());[((317092243-#("uh oh everyone watch out pain exist coming in with the backspace method one dot two dot man dot")))]=("\51");gy8AxFDVrz=((7));XwkurGagR=("\109");[((#{375;772;731;(function(...)return...;end)(386,130,924)}+146035391))]=(e());VCJDbPdIp=("\102");[(324581299)]=(e());[(325606854)]=(e());[(821315732)]=("\116");[((#{868;930;954;771;(function(...)return 7,93,...;end)(745)}+923840273))]=(e());[((#{955;683;731;183;(function(...)return;end)()}+468601474))]=("\107");[((#{689;223;561;(function(...)return 916,348,308,...;end)(482,14,912)}+381960699))]=((646110));[(459929804)]=(((105-#("concat was here"))));[((#{691;(function(...)return 589,499,521;end)()}+812237291))]=(e());[(648067689)]=("\114");[(684518453)]=(e());[(860371084)]=(((#{(function(...)return 260;end)()}+929622283)));[(534656832)]=((356565990));kOqnh3RwC=("\115");MM86ba0=(((#{780;189;622;(function(...)return;end)()}+249939)));['wEV0GoHaw']=(e());[((#{390;240;574;707;}+483990776))]=(e());[((#{995;327;992;330;(function(...)return;end)()}+712585371))]=((0));wcMD88=(((#{551;(function(...)return 730,313,837;end)()}+32)));s0yLwul0b=("\119");[((#{7;(function(...)return 281;end)()}+857644659))]=((8));[(184864405)]=(e());});return d(r(x,n))(e or(function(...)end),...);
+local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Ihaveash0rtnamefordiscord/DarkHUB/main/Lib",true))()
+main = lib:Window()
+MainWindow = main:Tab('Bad Business')
+Aimbotz = main:Tab('Aimbot')
+Esp = main:Tab('Esp')
+
+Client = {
+    Toggles = {
+        SilentAim = false,
+        FOV = false,
+        NoRecoil = false,
+        Fly = false,
+        BHOP = false
+    },
+    Visuals = {
+        BoxEsp = false,
+        TracerEsp = false,
+        Names = false,
+        TeamCheck = true,
+        EnemyColor = Color3.fromRGB(255,0,0),
+        TeamColor = Color3.fromRGB(0,255,0),
+        ShowTeam = false
+    },
+    Values = {
+        AimPart = "Head",
+        FOV = 100,
+        ChatMsg = "Dark HUB Winning! Dizzy: DarkHUB"
+    }
+}
+
+
+MainWindow:Toggle("Fly", function(state)
+Client.Toggles.Fly = state
+end)
+
+MainWindow:Slider("Speed", 2, 10, function(num)
+for i,v in pairs(getgc(true)) do
+    if type(v) == 'table' and rawget(v,'Control') and type(v.Control) == 'function' then
+        if table.find(getconstants(v.Control),'Stand') then
+            print(getconstant(v.Control,tonumber(table.find(getconstants(v.Control),'Stand'))+1))
+            setconstant(v.Control,tonumber(table.find(getconstants(v.Control),'Stand'))+1,num)
+        end
+    end
+end
+end)
+
+
+local Cowboy = 36
+    Main = require(game:GetService("ReplicatedStorage"):WaitForChild("TS"));
+for i, v in pairs(getconnections(Main.Input.Began)) do
+    if table.find(getconstants(v.Function),'Jump') then
+        warn(v)
+        local OldInput;
+        OldInput = hookfunction(v.Function,function(Ag1,Ag2)
+            if Ag1 == 'Jump' then
+                print(Ag2)
+                Main = require(game:GetService("ReplicatedStorage"):WaitForChild("TS"));
+                Root = Main.Characters:GetCharacter(game.Players.LocalPlayer).Root
+                Root.Velocity = Vector3.new(Root.Velocity.X,Cowboy,Root.Velocity.Z)
+                return
+            end
+            return OldInput(Ag1,Ag2)
+        end)
+    end
+end
+
+MainWindow:Slider("JumpPower", 50, 100, function(num)
+Cowboy = num
+end)
+
+MainWindow:Toggle("No Recoil", function(state)
+Client.Toggles.NoRecoil = state
+end)
+
+
+MainWindow:Toggle("Wallbang(20m Close Range)", function(state)
+    local Raycast = require(game:GetService("ReplicatedStorage").TS).Raycast
+    if state == true then
+        debug.setupvalue(Raycast.CastGeometryAndEnemies, 1, nil)
+        debug.setupvalue(Raycast.CastGeometryAndEnemies, 2, nil)
+    else
+        debug.setupvalue(Raycast.CastGeometryAndEnemies, 1, game:GetService('Workspace').Geometry)
+        debug.setupvalue(Raycast.CastGeometryAndEnemies, 2, game:GetService('Workspace').Terrain)
+    end
+end)
+
+MainWindow:Toggle('Chat Spam',function(state)
+    Client.Toggles.SpamChat = state
+end)
+
+MainWindow:Textbox(
+	"Chat Message",
+	true,
+	function(Text)
+		Client.Values.ChatMsg = tostring(Text)
+	end
+)
+
+
+spawn(function()
+    while true do
+        wait(DarkHUBlol)
+        if Client.Toggles.SpamChat == true then
+            game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(Client.Values.ChatMsg, "ALL")
+            wait(.1)
+        end
+    end
+end)
+
+MainWindow:Slider("Chat Delay", 0, 10, function(num)
+    DarkHUBlol = num
+end)
+
+game:GetService('UserInputService').InputBegan:connect(function(key, gpe)
+    if key.KeyCode == Enum.KeyCode.LeftShift then
+        Temp_Up = true
+    end
+    if key.KeyCode == Enum.KeyCode.LeftControl then
+        Temp_Down = true
+    end
+end)
+game:GetService('UserInputService').InputEnded:connect(function(key, gpe)
+    if key.KeyCode == Enum.KeyCode.LeftShift then
+        Temp_Up = false
+    end
+    if key.KeyCode == Enum.KeyCode.LeftControl then
+        Temp_Down = false
+    end
+end)
+Main = require(game:GetService("ReplicatedStorage"):WaitForChild("TS"));
+spawn(function()
+    while true do
+        wait()
+        pcall(function()
+            if Client.Toggles.Fly == true then
+                game:GetService("Workspace").Gravity = 0
+                Me = Main.Characters:GetCharacter(game.Players.LocalPlayer)
+                if Temp_Up == true then
+                    Me.Root.Velocity = Vector3.new(0,40,0)
+                end
+                if Temp_Down == true then
+                    Me.Root.Velocity = Vector3.new(0,-40,0)
+                end
+                if Temp_Down == false and Temp_Up == false then
+                    if Me.Root.Velocity.Y ~= 0 then
+                        Me.Root.Velocity = Vector3.new(0,0,0)
+                    end
+                end
+            else
+                game:GetService("Workspace").Gravity = 196.19999694824 
+            end
+        end)
+    end
+end)
+
+
+Aimbotz:Toggle("Silent-Aim", function(state)
+    Client.Toggles.SilentAim = state
+
+end)
+
+Aimbotz:Toggle('FOV Visible',function(state)
+    Client.Toggles.FOV = state
+end)
+
+Aimbotz:Slider("FOV", 15, 1000, function(num)
+    Client.Values.FOV = num
+
+end)
+
+Aimbotz:Dropdown('BodyPart',{'Chest','Head', 'Random'},function(Sele)
+    Client.Values.AimPart = Sele
+end)
+
+--Visuals Below
+--FOV
+local FOVCircle = Drawing.new("Circle")
+FOVCircle.Thickness = 2
+FOVCircle.NumSides = 460
+FOVCircle.Filled = false
+FOVCircle.Transparency = 0.6
+FOVCircle.Radius = Client.Values.FOV
+FOVCircle.Color = Color3.new(0,255,0)
+
+--Framework
+local localPlayer = game:GetService("Players").LocalPlayer
+local currentCamera = game:GetService("Workspace").CurrentCamera
+local Mouse = localPlayer:GetMouse()
+Main = require(game:GetService("ReplicatedStorage"):WaitForChild("TS"));
+function GetCharacters()
+    temptable = {}
+        for i,v in pairs(game.Players:GetPlayers()) do
+            if v.Name ~= game.Players.LocalPlayer.Name and Main.Teams:GetPlayerTeam(v) ~= Main.Teams:GetPlayerTeam(game.Players.LocalPlayer) then
+                temp2 = Main.Characters:GetCharacter(v)
+                table.insert(temptable,temp2)
+            end
+        end
+    return temptable
+end
+function getClosestPlayerToCursor() 
+    local closestPlayer = nil
+    local shortestDistance = math.huge
+        for i, v in pairs(GetCharacters()) do
+            local pos = currentCamera:WorldToViewportPoint(v.Body.Head.Position)
+            local magnitude = (Vector2.new(pos.X, pos.Y) - Vector2.new(Mouse.X, Mouse.Y)).magnitude
+            if magnitude < shortestDistance and magnitude <= Client.Values.FOV then
+                closestPlayer = v
+                shortestDistance = magnitude
+            end
+        end  
+    return closestPlayer
+end
+game:GetService("RunService").Stepped:Connect(function()
+    FOVCircle.Position = game:GetService('UserInputService'):GetMouseLocation()
+    FOVCircle.Radius = Client.Values.FOV
+    if Client.Toggles.FOV == true then
+        FOVCircle.Visible = true
+    else
+        FOVCircle.Visible = false
+    end
+end)
+
+Main = require(game:GetService("ReplicatedStorage"):WaitForChild("TS"));
+Camera =  game.Workspace.CurrentCamera
+Main.Input.Reticle.LookVector = function()
+    if Client.Toggles.SilentAim == false then
+        return game.Workspace.CurrentCamera.CFrame.LookVector
+    end
+    x = nil
+    target = nil
+    pcall(function()
+        target = getClosestPlayerToCursor()
+    end)
+    if target == nil then
+        return game.Workspace.CurrentCamera.CFrame.LookVector
+    end
+    Camera = game.Workspace.CurrentCamera
+    xt = target
+    Camera  = {
+        CFrame = CFrame.new(Camera.CFrame.p,xt.Body[Client.Values.AimPart].Position)
+    }
+    x = (Camera.CFrame).LookVector
+    if not xt:FindFirstChild('Body') or not xt.Body:FindFirstChild(Client.Values.AimPart) or x == nil then
+        return game.Workspace.CurrentCamera.CFrame.LookVector
+    end
+    if x ~= nil then
+        return x
+    else
+        return game.Workspace.CurrentCamera.CFrame.LookVector
+    end
+end
+OldRecoil = Main.Camera.Recoil.Fire
+Main.Camera.Recoil.Fire =  function(self, name, ...)
+    local args = {...}
+    if Client.Toggles.NoRecoil then
+        return nil
+    else
+        return OldRecoil(self, name, unpack(args))
+    end
+end
+
+
+OldShoot = Main.Network.Fire
+Main.Network.Fire = function(...)
+    local args = {...};
+    if tostring(args[1]) == 'Admin' or tostring(args[2]) == 'Admin' then
+        return
+    end
+    return OldShoot(...)
+end
+
+
+--ESP 
+
+Esp:Toggle('Boxes',function(state)
+    Client.Visuals.BoxEsp = state
+end)
+
+Esp:Toggle("Tracers", function(state)
+    Client.Visuals.TracerEsp = state
+
+end)
+
+Esp:Toggle("NameEsp", function(state)
+    Client.Visuals.NameEsp = state
+
+end)
+
+Esp:Toggle("TeamEsp", function(state)
+    Client.Visuals.ShowTeam = state
+
+end)
+
+function DrawSquare()
+    local Box = Drawing.new("Square")
+    Box.Color = Color3.fromRGB(190, 190, 0)
+    Box.Thickness = 0.5
+    Box.Filled = false
+    Box.Transparency = 1
+    return Box
+end
+
+function DrawLine()
+    local line = Drawing.new("Line")
+    line.Color = Color3.new(190, 190, 0)
+    line.Thickness = 0.5
+    return line
+end
+
+function DrawText()
+    local text = Drawing.new("Text")
+    text.Color = Color3.fromRGB(190, 190, 0)
+    text.Size = 20
+    text.Outline = true
+    text.Center = true
+    return text
+end
+
+--Esp Loader
+
+function AddEsp(player)
+    local Box = DrawSquare()
+    local Tracer = DrawLine()
+    local Name = DrawText()
+    game:GetService('RunService').Stepped:Connect(function()
+        pcall(function()
+            if Main.Characters:GetCharacter(player) == nil or Main.Characters:GetCharacter(player).Health.Value == 0 then
+                Box.Visible = false
+                Tracer.Visible = false
+                Name.Visible = false
+            else
+                if Client.Visuals.ShowTeam then
+                    if Client.Visuals.TeamCheck and Main.Teams:GetPlayerTeam(player) == Main.Teams:GetPlayerTeam(game.Players.LocalPlayer) then
+                        Box.Color = Client.Visuals.TeamColor
+                        Tracer.Color = Client.Visuals.TeamColor
+                        Name.Color = Client.Visuals.TeamColor
+                    else
+                        Box.Color = Client.Visuals.EnemyColor
+                        Tracer.Color = Client.Visuals.EnemyColor
+                        Name.Color = Client.Visuals.EnemyColor
+                    end
+                    if Main.Characters:GetCharacter(player).Body:FindFirstChild("Chest") and player.InMenu.Value == false then
+                        local RootPosition, OnScreen = game.Workspace.CurrentCamera:WorldToViewportPoint(Main.Characters:GetCharacter(player).Body.Chest.Position)
+                        local HeadPosition = game.Workspace.CurrentCamera:WorldToViewportPoint(Main.Characters:GetCharacter(player).Body.Head.Position + Vector3.new(0, 0.5, 0))
+                        local LegPosition = game.Workspace.CurrentCamera:WorldToViewportPoint(Main.Characters:GetCharacter(player).Body.Chest.Position - Vector3.new(0, 4, 0))
+                        if Client.Visuals.BoxEsp then
+                            Box.Visible = OnScreen
+                            Box.Size = Vector2.new((2350 / RootPosition.Z) + 2.5, HeadPosition.Y - LegPosition.Y)
+                            Box.Position = Vector2.new((RootPosition.X - Box.Size.X / 2) - 1, RootPosition.Y - Box.Size.Y / 2)
+                        else
+                            Box.Visible = false
+                        end
+                        if Client.Visuals.TracerEsp then
+                            Tracer.Visible = OnScreen
+                            Tracer.To = Vector2.new(game.Workspace.CurrentCamera.ViewportSize.X / 2, 1000)
+                            Tracer.From = Vector2.new(game.Workspace.CurrentCamera:WorldToViewportPoint(Main.Characters:GetCharacter(player).Body.Chest.Position).X - 1, RootPosition.Y - (HeadPosition.Y - LegPosition.Y) / 2)
+                        else
+                            Tracer.Visible = false
+                        end
+                        if Client.Visuals.NameEsp then
+                            Name.Visible = OnScreen
+                            Name.Position = Vector2.new(game.Workspace.CurrentCamera:WorldToViewportPoint(Main.Characters:GetCharacter(player).Body.Head.Position).X, game.Workspace.CurrentCamera:WorldToViewportPoint(Main.Characters:GetCharacter(player).Body.Head.Position).Y - 40)
+                            Name.Text = player.Name
+                        else
+                            Name.Visible = false
+                        end
+                    else
+                        Box.Visible = false
+                        Tracer.Visible = false
+                        Name.Visible = false
+                    end
+                    if not player then
+                        Box.Visible = false
+                        Tracer.Visible = false
+                        Name.Visible = false
+                    end
+                else
+                    if Main.Teams:GetPlayerTeam(player) == Main.Teams:GetPlayerTeam(game.Players.LocalPlayer) then
+                        Box.Visible = false
+                        Tracer.Visible = false
+                        Name.Visible = false
+                    end
+                    if Client.Visuals.TeamCheck and Main.Teams:GetPlayerTeam(player) ~= Main.Teams:GetPlayerTeam(game.Players.LocalPlayer) then
+                        Box.Color = Client.Visuals.EnemyColor
+                        Tracer.Color = Client.Visuals.EnemyColor
+                        Name.Color = Client.Visuals.EnemyColor
+                        if Main.Characters:GetCharacter(player).Body:FindFirstChild("Chest") and player.InMenu.Value == false then
+                        local RootPosition, OnScreen = game.Workspace.CurrentCamera:WorldToViewportPoint(Main.Characters:GetCharacter(player).Body.Chest.Position)
+                        local HeadPosition = game.Workspace.CurrentCamera:WorldToViewportPoint(Main.Characters:GetCharacter(player).Body.Head.Position + Vector3.new(0, 0.5, 0))
+                        local LegPosition = game.Workspace.CurrentCamera:WorldToViewportPoint(Main.Characters:GetCharacter(player).Body.Chest.Position - Vector3.new(0, 4, 0))
+                        if Client.Visuals.BoxEsp then
+                            Box.Visible = OnScreen
+                            Box.Size = Vector2.new((2350 / RootPosition.Z) + 2.5, HeadPosition.Y - LegPosition.Y)
+                            Box.Position = Vector2.new((RootPosition.X - Box.Size.X / 2) - 1, RootPosition.Y - Box.Size.Y / 2)
+                        else
+                            Box.Visible = false
+                        end
+                        if Client.Visuals.TracerEsp then
+                            Tracer.Visible = OnScreen
+                            Tracer.To = Vector2.new(game.Workspace.CurrentCamera.ViewportSize.X / 2, 1000)
+                            Tracer.From = Vector2.new(game.Workspace.CurrentCamera:WorldToViewportPoint(Main.Characters:GetCharacter(player).Body.Chest.Position).X - 1, RootPosition.Y - (HeadPosition.Y - LegPosition.Y) / 2)
+                        else
+                            Tracer.Visible = false
+                        end
+                        if Client.Visuals.NameEsp then
+                            Name.Visible = OnScreen
+                            Name.Position = Vector2.new(game.Workspace.CurrentCamera:WorldToViewportPoint(Main.Characters:GetCharacter(player).Body.Head.Position).X, game.Workspace.CurrentCamera:WorldToViewportPoint(Main.Characters:GetCharacter(player).Body.Head.Position).Y - 40)
+                            Name.Text = player.Name
+                        else
+                            Name.Visible = false
+                        end
+                    else
+                        Box.Visible = false
+                        Tracer.Visible = false
+                        Name.Visible = false
+                    end
+                        if not player then
+                            Box.Visible = false
+                            Tracer.Visible = false
+                            Name.Visible = false
+                        end
+                    end
+                end
+            end
+        end)
+    end)
+end
+  
+for i, v in pairs(game:GetService('Players'):GetPlayers()) do
+    if v ~= game:GetService('Players').LocalPlayer then
+        AddEsp(v)
+    end
+end
+  
+game:GetService('Players').PlayerAdded:Connect(function(player)
+    if v ~= game:GetService('Players').LocalPlayer then
+        AddEsp(player)
+    end
+end)
